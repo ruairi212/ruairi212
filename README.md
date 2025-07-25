@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ruairi Tierney
 
 Welcome to my GitHub!  
-I'm an Artificial Intelligence student heading into my final year, passionate about building intelligent solutions and exploring the future of technology.
+I'm an Artificial Intelligence student heading into my final year, passionate about building intelligent solutions and human driven applications!
 
 ---
 
@@ -16,18 +16,14 @@ I'm an Artificial Intelligence student heading into my final year, passionate ab
 - **Python**
 - **Machine Learning**
 - **Deep Learning**
-
+- **C# and software development**
+  
 ## 🌱 Recent Experience
 - Participated in the [AI4AGRI Summer School](https://www.ai4agri.org/) (2025), diving into the intersection of AI and agriculture.
 
 ## 📫 Contact Me
 - **Email:** [ruairitierney212@gmail.com](mailto:ruairitierney212@gmail.com)
 
----
-
-> “Exploring the edge of intelligence, both human and artificial.”
-
----
 
 Thanks for visiting!  
-Feel free to connect, collaborate, or just say hi 👋
+Feel free to connect, collaborate, or just say hi 
