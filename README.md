@@ -16,6 +16,7 @@ I'm an Artificial Intelligence student heading into my final year, passionate ab
 - **Python**
 - **Machine Learning**
 - **Deep Learning**
+- **HTML/CSS/Javascript
 - **C# and software development**
   
 ## 🌱 Recent Experience
